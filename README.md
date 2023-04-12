@@ -15,32 +15,32 @@
 
 <h3 align="left">Dev:</h3>
 
-    **Programming languages:** C++, Js, HTML, CSS3, Python.
+**Programming languages:** C++, Js, HTML, CSS3, Python.
 
-    **Code editors:** VScode, Atom, Vim, Nvim, Nano. 
+**Code editors:** VScode, Atom, Vim, Nvim, Nano. 
 
-    **Operating Systems:** Linux, Windows. 
+**Operating Systems:** Linux, Windows. 
 
-    **Terminal customization:** bash, zsh and poweshell. 
+**Terminal customization:** bash, zsh and poweshell. 
 
-    **SQL databases:** Postgres, MySQL 
+**SQL databases:** Postgres, MySQL 
 
-    **Database managers:** PgAdmin4, TablePlus. 
+**Database managers:** PgAdmin4, TablePlus. 
 
-    **Virtualization with:** VMWare, VirtualBox, Hyper-v 
+**Virtualization with:** VMWare, VirtualBox, Hyper-v 
 
-    **Docker**
+**Docker**
 
-    **WSL**
+**WSL**
 
-    **Software documentation** 
+**Software documentation** 
 
 <h3 align="left">No Code:</h3>
 
-    - Notion tips, templates, databases and more. 
-    - Notion for the management of startups, groups, projects, etc... 
-    - Automation with Zapier, Make (Integromat) and IFTTT. 
-    - Security: Two-factor authentication, Password managers
+- Notion tips, templates, databases and more. 
+- Notion for the management of startups, groups, projects, etc... 
+- Automation with Zapier, Make (Integromat) and IFTTT. 
+- Security: Two-factor authentication, Password managers
 
 - 📫 How to reach me **haider@hlgnocode.site**
 
