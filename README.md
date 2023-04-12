@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haider</h1>
-<h3 align="center">A passionate backend developer from Colombia. Founder of <a href="https://github.com/HlgCode" target="@HlgCode">@HlgCode</a> & <a href="https://github.com/HlgNoCode" target="@HlNogCode">@HlNogCode</a></h3>
+<h3 align="center">A passionate backend developer from Colombia. Founder of <a href="https://github.com/HlgCode" target="@HlgCode">@HlgCode</a> & <a href="https://github.com/HlgNoCode" target="@HlNogCode">@HlgNoCode</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlgblackhat&label=Profile%20views&color=0e75b6&style=flat" alt="hlgblackhat" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [**linktr.ee/hlgnocode**](linktr.ee/hlgnocode)
 
-- 💬 Ask me about
+<h2 align="left"> 💬 Ask me about ⤵</h2>
 
 <h3 align="left">Dev:</h3>
 
@@ -42,9 +42,9 @@
 - Automation with Zapier, Make (Integromat) and IFTTT. 
 - Security: Two-factor authentication, Password managers
 
-- 📫 How to reach me **haider@hlgnocode.site**
+<h2 align="left">📫 How to reach me ➡</h2> 📧 **haider@hlgnocode.site**
 
-- 📄 Know about my experiences [hlgcode.notion.site](hlgcode.notion.site)
+<h2 align="left">📄 Know about my experiences ➡</h2> 🌐 [hlgcode.notion.site](hlgcode.notion.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
