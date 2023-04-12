@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haider</h1>
-<h3 align="center">A passionate backend developer from Colombia. Founder of <a href="https://github.com/Hlgblackhat?tab=overview&org=HlgCode" target="@HlgCode"><img src="https://avatars.githubusercontent.com/u/84118968?s=64&v=4" alt="@HlgCode"/></a> & <a href="https://github.com/Hlgblackhat?tab=overview&org=HlgNoCode" target="@HlNogCode"><img src="https://avatars.githubusercontent.com/u/130255912?s=64&v=4" alt="@HlgNoCode"/></a></h3>
+<h3 align="center">A passionate backend developer from Colombia. Founder of <a href="https://github.com/Hlgblackhat?tab=overview&org=HlgCode" target="@HlgCode"></a> & <a href="https://github.com/Hlgblackhat?tab=overview&org=HlgNoCode" target="@HlNogCode"></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlgblackhat&label=Profile%20views&color=0e75b6&style=flat" alt="hlgblackhat" /> </p>
 
@@ -12,42 +12,35 @@
 - 👨‍💻 All of my projects are available at [**linktr.ee/hlgnocode**](linktr.ee/hlgnocode)
 
 - 💬 Ask me about
-<table border="0">
- <tr>
-    <td><b style="font-size:30px"><h3 align="left">DEV:</h3></b></td>
-    <td><b style="font-size:30px"><h3 align="left">No Code:</h3></b></td>
- </tr>
- <tr>
-    <td>
 
-**Programming languages:** C++, Js, HTML, CSS3, Python.
+<h3 align="left">Dev:</h3>
 
-**Code editors:** VScode, Atom, Vim, Nvim, Nano. 
+    **Programming languages:** C++, Js, HTML, CSS3, Python.
 
-**Operating Systems:** Linux, Windows. 
+    **Code editors:** VScode, Atom, Vim, Nvim, Nano. 
 
-**Terminal customization:** bash, zsh and poweshell. 
+    **Operating Systems:** Linux, Windows. 
 
-**SQL databases:** Postgres, MySQL 
+    **Terminal customization:** bash, zsh and poweshell. 
 
-**Database managers:** PgAdmin4, TablePlus. 
+    **SQL databases:** Postgres, MySQL 
 
-**Virtualization with:** VMWare, VirtualBox, Hyper-v 
+    **Database managers:** PgAdmin4, TablePlus. 
 
-**Docker**
+    **Virtualization with:** VMWare, VirtualBox, Hyper-v 
 
-**WSL**
+    **Docker**
 
-**Software documentation** 
-</td>
-    <td>
+    **WSL**
+
+    **Software documentation** 
+
+<h3 align="left">No Code:</h3>
+
     - Notion tips, templates, databases and more. 
     - Notion for the management of startups, groups, projects, etc... 
     - Automation with Zapier, Make (Integromat) and IFTTT. 
     - Security: Two-factor authentication, Password managers
-    </td>
- </tr>
-</table>
 
 - 📫 How to reach me **haider@hlgnocode.site**
 
