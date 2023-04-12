@@ -1,17 +1,39 @@
 <h1 align="center">Hi 👋, I'm Haider</h1>
-<h3 align="center">A passionate backend developer from Colombia.</h3>
+<h3 align="center">A passionate backend developer from Colombia. Founder of <a href="https://github.com/Hlgblackhat?tab=overview&org=HlgCode" target="@HlgCode"><img src="https://avatars.githubusercontent.com/u/84118968?s=64&v=4" alt="@HlgCode"/></a> & <a href="https://github.com/Hlgblackhat?tab=overview&org=HlgNoCode" target="@HlNogCode"><img src="https://avatars.githubusercontent.com/u/130255912?s=64&v=4" alt="@HlgNoCode"/></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlgblackhat&label=Profile%20views&color=0e75b6&style=flat" alt="hlgblackhat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/__h_a_i_d_e_r__" target="blank"><img src="https://img.shields.io/twitter/follow/__h_a_i_d_e_r__?logo=twitter&style=for-the-badge" alt="__h_a_i_d_e_r__" /></a> </p>
 
-- 🔭 I’m currently working on [ToolCare Project](https://github.com/hlgcode/ToolCare.git)
+- 🔭 I’m currently working on [**ToolCare Project**](https://github.com/hlgcode/ToolCare.git)
 
 - 🌱 I’m currently learning **Reactjs, Ts, Docker, Firebase, NoSQL.**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/hlgnocode](linktr.ee/hlgnocode)
+- 👨‍💻 All of my projects are available at [**linktr.ee/hlgnocode**](linktr.ee/hlgnocode)
 
-- 💬 Ask me about **Dev: Programming languages: C++, Js, HTML, CSS3, Python. Operating Systems: Linux, Windows. Terminal customization: bash, zsh and poweshell. SQL databases: Postgres, MySQL Database managers: PgAdmin4, TablePlus. Virtualization with: VMWare, VirtualBox, Hyper-v Docker containers Software documentation Code editors: VScode, Atom, Vim, Nvim, Nano. No coding: Notion tips, templates, databases and more. Notion for the management of startups, groups, projects, etc... Automation with Zapier, Make (Integromat) and IFTTT. Security: Two-factor authentication Password managers**
+- 💬 Ask me about
+
+<h3 align="left">DEV:</h3>
+
+**Programming languages:** C++, Js, HTML, CSS3, Python. 
+**Code editors:** VScode, Atom, Vim, Nvim, Nano. 
+---
+**Operating Systems:** Linux, Windows. 
+**Terminal customization:** bash, zsh and poweshell. 
+**SQL databases:** Postgres, MySQL 
+**Database managers:** PgAdmin4, TablePlus. 
+**Virtualization with:** VMWare, VirtualBox, Hyper-v 
+**Docker**
+**WSL**
+---
+**Software documentation** 
+
+<h3 align="left">No Code:</h3>
+
+- Notion tips, templates, databases and more. 
+- Notion for the management of startups, groups, projects, etc... 
+- Automation with Zapier, Make (Integromat) and IFTTT. 
+- Security: Two-factor authentication, Password managers
 
 - 📫 How to reach me **haider@hlgnocode.site**
 
