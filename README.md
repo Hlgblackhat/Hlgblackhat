@@ -42,10 +42,10 @@
 - Automation with Zapier, Make (Integromat) and IFTTT. 
 - Security: Two-factor authentication, Password managers
 
-<h2 align="left">📫 How to reach me ➡</h2> 
+## 📫 How to reach me ➡ 
 📧 **haider@hlgnocode.site**
 
-<h2 align="left">📄 Know about my experiences ➡</h2> 
+## 📄 Know about my experiences ➡ 
 🌐 [**hlgcode.notion.site**](hlgcode.notion.site)
 
 <h3 align="left">Connect with me:</h3>
