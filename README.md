@@ -46,7 +46,7 @@
 📧 **haider@hlgnocode.site**
 
 ## 📄 Know about my experiences ➡ 
-🌐 [**hlgcode.notion.site**](hlgcode.notion.site)
+🌐 [**My Resume**](https://hlgcode.notion.site/Resume-4daa44a7b6234230a60bcf35fae8e033)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
