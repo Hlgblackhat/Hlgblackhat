@@ -18,7 +18,7 @@
 **Programming languages:** C++, Js, HTML, CSS3, Python.
 
 **Code editors:** VScode, Atom, Vim, Nvim, Nano. 
----
+
 **Operating Systems:** Linux, Windows. 
 
 **Terminal customization:** bash, zsh and poweshell. 
