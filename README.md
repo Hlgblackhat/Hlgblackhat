@@ -15,15 +15,22 @@
 
 <h3 align="left">DEV:</h3>
 
-**Programming languages:** C++, Js, HTML, CSS3, Python. 
+**Programming languages:** C++, Js, HTML, CSS3, Python.
+
 **Code editors:** VScode, Atom, Vim, Nvim, Nano. 
 ---
 **Operating Systems:** Linux, Windows. 
+
 **Terminal customization:** bash, zsh and poweshell. 
+
 **SQL databases:** Postgres, MySQL 
+
 **Database managers:** PgAdmin4, TablePlus. 
+
 **Virtualization with:** VMWare, VirtualBox, Hyper-v 
+
 **Docker**
+
 **WSL**
 ---
 **Software documentation** 
