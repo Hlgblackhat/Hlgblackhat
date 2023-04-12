@@ -12,8 +12,13 @@
 - 👨‍💻 All of my projects are available at [**linktr.ee/hlgnocode**](linktr.ee/hlgnocode)
 
 - 💬 Ask me about
-
-<h3 align="left">DEV:</h3>
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px"><h3 align="left">DEV:</h3></b></td>
+    <td><b style="font-size:30px"><h3 align="left">No Code:</h3></b></td>
+ </tr>
+ <tr>
+    <td>
 
 **Programming languages:** C++, Js, HTML, CSS3, Python.
 
@@ -32,15 +37,17 @@
 **Docker**
 
 **WSL**
----
+
 **Software documentation** 
-
-<h3 align="left">No Code:</h3>
-
-- Notion tips, templates, databases and more. 
-- Notion for the management of startups, groups, projects, etc... 
-- Automation with Zapier, Make (Integromat) and IFTTT. 
-- Security: Two-factor authentication, Password managers
+</td>
+    <td>
+    - Notion tips, templates, databases and more. 
+    - Notion for the management of startups, groups, projects, etc... 
+    - Automation with Zapier, Make (Integromat) and IFTTT. 
+    - Security: Two-factor authentication, Password managers
+    </td>
+ </tr>
+</table>
 
 - 📫 How to reach me **haider@hlgnocode.site**
 
