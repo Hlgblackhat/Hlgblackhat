@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haider</h1>
-<h3 align="center">A passionate backend developer from Colombia. Founder of <a href="https://github.com/Hlgblackhat?tab=overview&org=HlgCode" target="@HlgCode">@HlgCode</a> & <a href="https://github.com/Hlgblackhat?tab=overview&org=HlgNoCode" target="@HlNogCode">@HlNogCode</a></h3>
+<h3 align="center">A passionate backend developer from Colombia. Founder of <a href="https://github.com/HlgCode" target="@HlgCode">@HlgCode</a> & <a href="https://github.com/HlgNoCode" target="@HlNogCode">@HlNogCode</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlgblackhat&label=Profile%20views&color=0e75b6&style=flat" alt="hlgblackhat" /> </p>
 
