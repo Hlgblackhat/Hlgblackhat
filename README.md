@@ -46,7 +46,7 @@
 📧 **haider@hlgnocode.site**
 
 ## 📄 Know about my experiences ➡ 
-🌐 [**My Resume**](hlgblackhat.notion.site)
+🌐 [**My Resume**](imhaider.notion.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
