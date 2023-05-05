@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Ts, Docker, Firebase, NoSQL.**
 
-- 👨‍💻 All of my projects are available at [**linktr.ee/hlgnocode**](linktr.ee/hlgnocode)
+- 👨‍💻 All of my projects are available at [**linktr.ee/hlgnocode**](https://linktr.ee/hlgnocode)
 
 <h2 align="left"> 💬 Ask me about ⤵</h2>
 
@@ -43,10 +43,10 @@
 - Security: Two-factor authentication, Password managers
 
 ## 📫 How to reach me ➡ 
-📧 **haider@hlgnocode.site**
+📧 [**haider@hlgnocode.site**](mailto:haider@hlgnocode.site)
 
 ## 📄 Know about my experiences ➡ 
-🌐 [**My Resume**](imhaider.notion.site)
+🌐 [**My Resume**](https://imhaider.notion.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
