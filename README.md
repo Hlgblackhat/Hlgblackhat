@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [**linktr.ee/hlgnocode**](https://linktr.ee/hlgnocode)
 
-<h2 align="left"> 💬 Ask me about ⤵</h2>
+<h1 align="left"> 💬 Ask me about ⤵</h1>
 
-<h3 align="left">Dev:</h3>
+<h2 align="left">Dev:</h2>
 
 **Programming languages:** C++, Js, HTML, CSS3, Python.
 
@@ -35,7 +35,7 @@
 
 **Software documentation** 
 
-<h3 align="left">No Code:</h3>
+<h2 align="left">No Code:</h2>
 
 - Notion tips, templates, databases and more. 
 - Notion for the management of startups, groups, projects, etc... 
@@ -43,12 +43,14 @@
 - Security: Two-factor authentication, Password managers
 
 ## 📫 How to reach me ➡ 
+📧 [**admin@hlgcode.space**](mailto:admin@hlgcode.space)
+
 📧 [**haider@hlgnocode.site**](mailto:haider@hlgnocode.site)
 
 ## 📄 Know about my experiences ➡ 
 🌐 [**My Resume**](https://imhaider.notion.site/)
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://codepen.io/hlblackhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hlblackhat" height="30" width="40" /></a>
 <a href="https://twitter.com/__h_a_i_d_e_r__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__h_a_i_d_e_r__" height="30" width="40" /></a>
