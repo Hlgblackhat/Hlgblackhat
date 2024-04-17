@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haider</h1>
-<h3 align="center">A passionate backend developer from Colombia. Founder of <a href="https://github.com/HlgCode" target="@HlgCode">@HlgCode</a> & <a href="https://github.com/HlgNoCode" target="@HlNogCode">@HlgNoCode</a></h3>
+<h3 align="center">A passionate backend developer from Colombia. Founder of <a href="https://github.com/HlgCodes" target="@HlgCodes">@HlgCodes</a> & <a href="https://github.com/HlgNoCode" target="@HlNogCode">@HlgNoCode</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlgblackhat&label=Profile%20views&color=0e75b6&style=flat" alt="hlgblackhat" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [**ToolCare Project**](https://github.com/hlgcode/ToolCare.git)
 
-- 🌱 I’m currently learning **Reactjs, Ts, Docker, Firebase, NoSQL.**
+- 🌱 I’m currently learning **Go and TypeScript.**
 
-- 👨‍💻 All of my projects are available at [**linktr.ee/hlgnocode**](https://linktr.ee/hlgnocode)
+- 👨‍💻 All of my projects are available at [**linktr.ee/hlg_blackhat**](https://linktr.ee/hlg_blackhat)
 
 <h1 align="left"> 💬 Ask me about ⤵</h1>
 
@@ -43,12 +43,10 @@
 - Security: Two-factor authentication, Password managers
 
 ## 📫 How to reach me ➡ 
-📧 [**admin@hlgcode.space**](mailto:admin@hlgcode.space)
+📧 [**admin@hlgcodes.me**](mailto:admin@hlgcodes.me)
 
-📧 [**haider@hlgnocode.site**](mailto:haider@hlgnocode.site)
-
-## 📄 Know about my experiences ➡ 
-🌐 [**My Resume**](https://imhaider.notion.site/)
+<!--## 📄 Know about my experiences ➡ 
+🌐 [**My Resume**](https://imhaider.notion.site/)-->
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
