@@ -80,7 +80,6 @@
 <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/Dokploy-1E1E1E?style=for-the-badge&logo=dokploy&logoColor=white" />
 
-
 <br>
 
 **Tools**<br>
@@ -99,8 +98,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hlgblackhat&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlgblackhat&layout=compact&theme=radical" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hlgblackhat&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hlgblackhat&layout=compact&theme=radical" height="180" alt="languages graph" />
 </div>
 <br>
 <div align="center">
