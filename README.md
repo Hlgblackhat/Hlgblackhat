@@ -95,19 +95,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hlgblackhat&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hlgblackhat&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlgblackhat&theme=radical" alt="streak stats" />
-</div>
-
----
-
 ### 🤝 Connect with me
 
 <p align="center">
